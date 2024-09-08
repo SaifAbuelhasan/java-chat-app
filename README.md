@@ -1,0 +1,1 @@
+![Sequence Diagram](./media/Java%20Chat.png)
